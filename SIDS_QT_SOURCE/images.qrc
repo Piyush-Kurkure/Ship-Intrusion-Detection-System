@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/logos">
+        <file>images/fcrit.png</file>
+        <file>images/tifr.png</file>
+    </qresource>
+</RCC>
